@@ -62,7 +62,7 @@ complete course material at any time before the course end date.
 
   For more information about the way learners experience instructor-paced and
   self-paced courses, see :ref:`Differences Between Instructor- and Self-Paced
-  Courses<learners:SFD Course Pacing>`.
+  Courses<learners:SFD Course Pacing>` in the *edX Learner's Guide*.
 
 
 ***************************
