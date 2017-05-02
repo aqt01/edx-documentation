@@ -56,6 +56,9 @@ Create a Discussion Component
 #. Follow the guidelines in the editor to fill in the **Category**, the
    **Display Name**, and the **Subcategory** fields.
 
+   .. note:: Each **Category**/**Subcategory** pair for the discussion topics
+      in your course must be unique.
+
    .. image:: ../../../shared/images/DiscussionComponentEditor.png
     :alt: An image of the discussion component editor with a category of
      "Getting Graded" and a subcategory of "Answering More Than Once".
@@ -68,12 +71,9 @@ Create a Discussion Component
    accurately. If you delete the default display name and do not enter your own
    identifying name, the platform supplies "discussion" for you.
 
-   The values in the **Category** and **Subcategory** fields
-   are visible to learners in the list of discussion topics on the
-   **Discussion** page.
-
-   .. note:: Each **Category**/**Subcategory** pair for the discussion topics
-      in your course must be unique.
+   The values in the **Category** (1) and **Subcategory** (2) fields are
+   visible to learners in the list of discussion topics on the **Discussion**
+   page.
 
    .. image:: ../../../shared/images/Discussion_category_subcategory.png
     :alt: A list of discussions with the "Answering More Than Once" topic
