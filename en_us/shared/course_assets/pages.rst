@@ -166,14 +166,14 @@ To hide or show the **Wiki** or **Progress** pages, follow these steps.
    page** icon.
 
    .. image:: ../../../shared/images/pages_wiki_on.png
-    :alt: The list of default course pages, with a show/hide icon for the Wiki
-      and Progress pages only.
+    :alt: The list of default course pages. Only the Wiki and Progress pages
+        have Show/Hide controls.
 
 #. Select the **Show/hide page** icon to hide a page. The icon changes to
    indicate that the page is hidden, as shown in this example.
 
    .. image:: ../../../shared/images/pages_wiki_off.png
-    :alt: The default wiki page on the list of course pages, with the show/hide
+    :alt: The Wiki page on the list of course pages, with the show/hide
         icon indicating that the page is currently hidden.
 
 #. Select the **Show/hide page** icon again to make the page visible.
