@@ -112,12 +112,17 @@ Learners must select **Show Discussion** to expand the discussion space and
 read the contributions, or select **Add a Post** to post their own contributions.
 
 .. image:: ../../../shared/images/DiscussionComponentShown_LMS.png
-  :alt: A discussion component as it appears in the LMS after a learner has clicked "Show Discussion". The "Add a Post" option becomes available.
+  :alt: A discussion component as it appears in the LMS after a learner has
+      clicked "Show Discussion". The "Add a Post" option becomes available.
   :width: 600
 
-On the course **Discussion** page, learners can find the category and
-subcategory of the discussion component in the discussion thread list.
+Content-specific topics that you add using discussion components are included
+on the course **Discussion** page in the same way as course-wide discussion
+topics as included. In the following example, the category (1) and the
+subcategory (2) of the discussion component is shown in the list of
+discussion topics.
 
 .. image:: ../../../shared/images/Discussion_category_subcategory.png
- :alt: The Discussion page from a learner's point of view.
+ :alt: The list of discussions on the Discussion page in the LMS, showing the
+     category and subcategory of a content-specific discussion topic.
  :width: 400
