@@ -36,7 +36,9 @@ The Learner View of a Subsection
 *********************************
 
 Learners see clickable subsection names in the course outline on the **Course**
-page, listed beneath their containing section. Learners click subsection names to access the units in the seleted subsection.
+page, listed beneath their containing :ref:`section<Developing Course
+Sections>`. Learners click subsection names to access the units in the seleted
+subsection.
 
 In the following example, the subsections under two separate sections are
 indicated with outlines.
