@@ -93,10 +93,11 @@ Create a Discussion Component
 A Learner's View of the Discussion
 **********************************
 
-When you add a discussion component to a unit, in the LMS, learners see only a
-**Show Discussion** option. EdX recommends that you add an HTML component
-before each discussion component where you add some text to introduce the
-discussion topic.
+When you add a discussion component to a unit, in the LMS, learners see only
+the display name of the discussion component, the category and subcategory,
+and a **Show Discussion** option. EdX recommends that you add an HTML
+component before each discussion component where you add some text to
+introduce the discussion topic.
 
 In the following example, the discussion component follows video and HTML
 components.
