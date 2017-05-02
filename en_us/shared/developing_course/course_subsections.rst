@@ -35,13 +35,16 @@ the course outline.
 The Learner View of a Subsection
 *********************************
 
-Learners see subsections on the **Course** page, listed beneath the
-expanded section. In the following example, two subsections are circled, and
-the first one is open in the LMS.
+Learners see clickable subsection names in the course outline on the **Course**
+page, listed beneath their containing section. Learners click subsection names to access the units in the seleted subsection.
+
+In the following example, the subsections under two separate sections are
+indicated with outlines.
 
 .. image:: ../../../shared/images/subsections_student.png
  :width: 500
- :alt: The learner view of the outline.
+ :alt: The learner view of the course outline, with two groups of subsections
+       indicated with a box outline.
 
 ************************************************
 Subsections and Visibility to Learners
