@@ -34,10 +34,10 @@ outline.
 The Learner View of a Section
 ******************************
 
-Learners see section names in the course outline on the **Course** page, with
-clickable subsection names under each section. Learners click subsection names
-to access the units in the selected :ref:`subsection<Developing Course
-Subsections>`.
+In the LMS, learners see section names in the course outline on the **Course**
+page, with subsections listed under the section name. Learners click
+subsection names to access the units in the selected
+:ref:`subsection<Developing Course Subsections>`.
 
 In the following example, two section names are indicated with a box outline.
 
